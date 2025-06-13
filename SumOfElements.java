@@ -1,4 +1,4 @@
-Problem 08- Sum of all the elements
+//Problem 08- Sum of all the elements
 
 import java.util.*;
 
