@@ -1,4 +1,4 @@
-Problem 06- Largest of three numbers
+//Problem 06- Largest of three numbers
 
 import java.util.*;
 
