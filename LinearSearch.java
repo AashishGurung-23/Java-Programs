@@ -1,4 +1,4 @@
-Problem 02 - Linear Search using Java
+//Problem 02 - Linear Search using Java
 
 import java.util.*;
 
